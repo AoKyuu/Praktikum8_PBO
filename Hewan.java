@@ -1,0 +1,7 @@
+package Pertemuan_VIII;
+
+public class Hewan {
+    public void bersuara(){
+        System.out.println("Hewan ini mengeluarkan suara yang tidak spesifik.");
+    }
+}
